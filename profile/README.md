@@ -4,7 +4,7 @@ Welcome to **Life - Pulse**, a **Work-Life Balancer App** designed to help users
 
 ---
 
-### 🙋‍♀️ About Us
+### 🙋‍♀️ About Application
 
 Life - Pulse is a mobile application developed using **React Native** for the frontend and **Express.js** for the backend. It empowers users to monitor and improve their work-life balance through:
 
@@ -16,7 +16,7 @@ Life - Pulse is a mobile application developed using **React Native** for the fr
 
 ### 🌈 Contribution Guidelines
 
-We welcome contributions from the community! Here’s how you can get involved:
+I welcome contributions from the community! Here’s how you can get involved:
 
 1. Fork the repository and create a feature branch.
 2. Work on your improvements and test thoroughly.
@@ -28,16 +28,16 @@ We welcome contributions from the community! Here’s how you can get involved:
 
 ### 🍿 Fun Facts
 
-- Our team is passionate about work-life balance and often tests the app features in real-life scenarios.
-- We love green and white — the app's theme reflects peace and growth.
-- We brainstorm chatbot tips over a hearty breakfast (pancakes are a favorite)!
+- I am passionate about work-life balance and often tests the app features in real-life scenarios.
+- I love green and white — the app's theme reflects peace and growth.
+- I brainstorm chatbot tips with my friends over a hearty breakfast!
 
 ---
 
-### 🧙 Contact Us
+### 🧙 Contact Me
 
 - For issues or suggestions, please open an issue on GitHub.
-- You can reach us at nadunsanjeevana2001@gmail.com for queries or collaborations.
+- You can reach me at nadunsanjeevana2001@gmail.com for queries or collaborations.
 
 ---
 
